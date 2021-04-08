@@ -1,0 +1,5 @@
+Which of the following methods returns an element of a HashMap H?
+H.return(key, value);
+H.get(key); --- correct 
+H.pop(key);
+H.put(key);
