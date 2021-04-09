@@ -1,0 +1,3 @@
+NH,New Hampshire,Manchester
+MA,Massachusetts,Boston
+VT,Vermont,Montpelier
